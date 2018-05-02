@@ -10,5 +10,5 @@ class Solution(object):
             if nums[index] != val:
                 nums[flag] = nums[index]
                 flag += 1
-
+        
         return flag

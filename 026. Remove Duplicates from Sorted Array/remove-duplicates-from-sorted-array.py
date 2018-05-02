@@ -4,14 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        index = 0
         if len(nums) == 0:
-            return index
+            return 0
         flag = nums[0]
-        index += 1
+        index = 1
         for i in range(len(nums)):
             if nums[i] != flag:
                 nums[index] = nums[i]
                 flag = nums[i]
                 index += 1
-        return index
+        return index 
+                

@@ -9,3 +9,4 @@ class Solution:
             if target <= nums[i]:
                 return i
         return len(nums)
+        
