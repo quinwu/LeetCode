@@ -1,5 +1,5 @@
 #  Leetcode solutions
-Update time:  2018-05-02 13:47:43 
+Update time:  2018-05-02 13:56:52 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
@@ -15,3 +15,4 @@ I have solved **9   /   742** problems
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](027.%20Remove%20Element/remove-element.py) [Cpp](027.%20Remove%20Element/remove-element.cpp) |None|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python3](028.%20Implement%20strStr()/implement-strstr.py) [Cpp](028.%20Implement%20strStr()/implement-strstr.cpp) |None|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python3](035.%20Search%20Insert%20Position/search-insert-position.py) [Cpp](035.%20Search%20Insert%20Position/search-insert-position.cpp) |None|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
