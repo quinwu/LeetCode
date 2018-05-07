@@ -1,13 +1,15 @@
 #  Leetcode solutions
-Update time:  2018-05-02 13:56:52 
+Update time:  2018-05-07 16:35:52 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **9   /   742** problems
+I have solved **11   /   746** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](001.%20Two%20Sum/two-sum.py) [Cpp](001.%20Two%20Sum/two-sum.cpp) |None|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python3](002.%20Add%20Two%20Numbers/add-two-numbers.py) [Cpp](002.%20Add%20Two%20Numbers/add-two-numbers.cpp) |None|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Cpp](004.%20Median%20of%20Two%20Sorted%20Arrays/median-of-two-sorted-arrays.cpp) |None|Hard|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Cpp](007.%20Reverse%20Integer/reverse-integer.cpp) |None|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python3](013.%20Roman%20to%20Integer/roman-to-integer.py) [Cpp](013.%20Roman%20to%20Integer/roman-to-integer.cpp) |None|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python3](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.py) [Cpp](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.cpp) |None|Easy|
