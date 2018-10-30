@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-10-29 17:23:31 
+Update time:  2018-10-30 09:55:16 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **18   /   879** problems
+I have solved **22   /   879** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -24,4 +24,8 @@ I have solved **18   /   879** problems
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Cpp](070.%20Climbing%20Stairs/climbing-stairs.cpp) |None|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python3](083.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-from-sorted-list.py) [Cpp](083.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-from-sorted-list.cpp) |None|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Cpp](088.%20Merge%20Sorted%20Array/merge-sorted-array.cpp) |None|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Cpp](104.%20Maximum%20Depth%20of%20Binary%20Tree/maximum-depth-of-binary-tree.cpp) |None|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[Cpp](110.%20Balanced%20Binary%20Tree/balanced-binary-tree.cpp) |None|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Cpp](111.%20Minimum%20Depth%20of%20Binary%20Tree/minimum-depth-of-binary-tree.cpp) |None|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum)|[Cpp](112.%20Path%20Sum/path-sum.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
