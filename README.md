@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-10-30 09:55:16 
+Update time:  2018-10-31 10:21:47 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **22   /   879** problems
+I have solved **24   /   879** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -28,4 +28,6 @@ I have solved **22   /   879** problems
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[Cpp](110.%20Balanced%20Binary%20Tree/balanced-binary-tree.cpp) |None|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Cpp](111.%20Minimum%20Depth%20of%20Binary%20Tree/minimum-depth-of-binary-tree.cpp) |None|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Cpp](112.%20Path%20Sum/path-sum.cpp) |None|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Cpp](412.%20Fizz%20Buzz/fizz-buzz.cpp) |None|Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings)|[Cpp](415.%20Add%20Strings/add-strings.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
