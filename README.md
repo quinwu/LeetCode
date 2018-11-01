@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-10-31 10:21:47 
+Update time:  2018-11-01 19:27:46 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **24   /   879** problems
+I have solved **34   /   879** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -11,7 +11,9 @@ I have solved **24   /   879** problems
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python3](002.%20Add%20Two%20Numbers/add-two-numbers.py) [Cpp](002.%20Add%20Two%20Numbers/add-two-numbers.cpp) |None|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Cpp](004.%20Median%20of%20Two%20Sorted%20Arrays/median-of-two-sorted-arrays.cpp) |None|Hard|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Cpp](007.%20Reverse%20Integer/reverse-integer.cpp) |None|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Cpp](009.%20Palindrome%20Number/palindrome-number.cpp) |None|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python3](013.%20Roman%20to%20Integer/roman-to-integer.py) [Cpp](013.%20Roman%20to%20Integer/roman-to-integer.cpp) |None|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Cpp](020.%20Valid%20Parentheses/valid-parentheses.cpp) |None|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python3](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.py) [Cpp](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.cpp) |None|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](026.%20Remove%20Duplicates%20from%20Sorted%20Array/remove-duplicates-from-sorted-array.py) [Cpp](026.%20Remove%20Duplicates%20from%20Sorted%20Array/remove-duplicates-from-sorted-array.cpp) |None|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](027.%20Remove%20Element/remove-element.py) [Cpp](027.%20Remove%20Element/remove-element.cpp) |None|Easy|
@@ -24,10 +26,18 @@ I have solved **24   /   879** problems
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Cpp](070.%20Climbing%20Stairs/climbing-stairs.cpp) |None|Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python3](083.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-from-sorted-list.py) [Cpp](083.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-from-sorted-list.cpp) |None|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Cpp](088.%20Merge%20Sorted%20Array/merge-sorted-array.cpp) |None|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|[Cpp](100.%20Same%20Tree/same-tree.cpp) |None|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Cpp](101.%20Symmetric%20Tree/symmetric-tree.cpp) |None|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Cpp](104.%20Maximum%20Depth%20of%20Binary%20Tree/maximum-depth-of-binary-tree.cpp) |None|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[Cpp](110.%20Balanced%20Binary%20Tree/balanced-binary-tree.cpp) |None|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Cpp](111.%20Minimum%20Depth%20of%20Binary%20Tree/minimum-depth-of-binary-tree.cpp) |None|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Cpp](112.%20Path%20Sum/path-sum.cpp) |None|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Cpp](113.%20Path%20Sum%20II/path-sum-ii.cpp) |None|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number)|[Cpp](136.%20Single%20Number/single-number.cpp) |None|Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Cpp](404.%20Sum%20of%20Left%20Leaves/sum-of-left-leaves.cpp) |None|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Cpp](412.%20Fizz%20Buzz/fizz-buzz.cpp) |None|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Cpp](414.%20Third%20Maximum%20Number/third-maximum-number.cpp) |None|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Cpp](415.%20Add%20Strings/add-strings.cpp) |None|Easy|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Cpp](434.%20Number%20of%20Segments%20in%20a%20String/number-of-segments-in-a-string.cpp) |None|Easy|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python3](441.%20Arranging%20Coins/arranging-coins.py) [Cpp](441.%20Arranging%20Coins/arranging-coins.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
