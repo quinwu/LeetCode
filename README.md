@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-11-01 19:27:46 
+Update time:  2018-11-07 09:46:19 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **34   /   879** problems
+I have solved **36   /   883** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -13,6 +13,7 @@ I have solved **34   /   879** problems
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Cpp](007.%20Reverse%20Integer/reverse-integer.cpp) |None|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Cpp](009.%20Palindrome%20Number/palindrome-number.cpp) |None|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python3](013.%20Roman%20to%20Integer/roman-to-integer.py) [Cpp](013.%20Roman%20to%20Integer/roman-to-integer.cpp) |None|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Cpp](014.%20Longest%20Common%20Prefix/longest-common-prefix.cpp) |None|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Cpp](020.%20Valid%20Parentheses/valid-parentheses.cpp) |None|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python3](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.py) [Cpp](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.cpp) |None|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](026.%20Remove%20Duplicates%20from%20Sorted%20Array/remove-duplicates-from-sorted-array.py) [Cpp](026.%20Remove%20Duplicates%20from%20Sorted%20Array/remove-duplicates-from-sorted-array.cpp) |None|Easy|
@@ -34,6 +35,7 @@ I have solved **34   /   879** problems
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Cpp](112.%20Path%20Sum/path-sum.cpp) |None|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Cpp](113.%20Path%20Sum%20II/path-sum-ii.cpp) |None|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Cpp](136.%20Single%20Number/single-number.cpp) |None|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/two-sum-ii-input-array-is-sorted.cpp) |None|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Cpp](404.%20Sum%20of%20Left%20Leaves/sum-of-left-leaves.cpp) |None|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Cpp](412.%20Fizz%20Buzz/fizz-buzz.cpp) |None|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Cpp](414.%20Third%20Maximum%20Number/third-maximum-number.cpp) |None|Easy|
