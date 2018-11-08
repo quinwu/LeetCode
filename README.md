@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-11-07 09:46:19 
+Update time:  2018-11-08 10:14:00 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **36   /   883** problems
+I have solved **37   /   883** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -34,6 +34,7 @@ I have solved **36   /   883** problems
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Cpp](111.%20Minimum%20Depth%20of%20Binary%20Tree/minimum-depth-of-binary-tree.cpp) |None|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Cpp](112.%20Path%20Sum/path-sum.cpp) |None|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Cpp](113.%20Path%20Sum%20II/path-sum-ii.cpp) |None|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Cpp](118.%20Pascal's%20Triangle/pascals-triangle.cpp) |None|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Cpp](136.%20Single%20Number/single-number.cpp) |None|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/two-sum-ii-input-array-is-sorted.cpp) |None|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Cpp](404.%20Sum%20of%20Left%20Leaves/sum-of-left-leaves.cpp) |None|Easy|
