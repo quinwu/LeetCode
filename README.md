@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-11-08 10:14:00 
+Update time:  2018-11-09 09:13:29 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **37   /   883** problems
+I have solved **61   /   883** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -35,12 +35,36 @@ I have solved **37   /   883** problems
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Cpp](112.%20Path%20Sum/path-sum.cpp) |None|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Cpp](113.%20Path%20Sum%20II/path-sum-ii.cpp) |None|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Cpp](118.%20Pascal's%20Triangle/pascals-triangle.cpp) |None|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Cpp](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best-time-to-buy-and-sell-stock.cpp) |None|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Cpp](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/best-time-to-buy-and-sell-stock-ii.cpp) |None|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Cpp](125.%20Valid%20Palindrome/valid-palindrome.cpp) |None|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Cpp](136.%20Single%20Number/single-number.cpp) |None|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Cpp](141.%20Linked%20List%20Cycle/linked-list-cycle.cpp) |None|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Cpp](160.%20Intersection%20of%20Two%20Linked%20Lists/intersection-of-two-linked-lists.cpp) |None|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/two-sum-ii-input-array-is-sorted.cpp) |None|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Cpp](168.%20Excel%20Sheet%20Column%20Title/excel-sheet-column-title.cpp) |None|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element)|[Cpp](169.%20Majority%20Element/majority-element.cpp) |None|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Cpp](171.%20Excel%20Sheet%20Column%20Number/excel-sheet-column-number.cpp) |None|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Cpp](172.%20Factorial%20Trailing%20Zeroes/factorial-trailing-zeroes.cpp) |None|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Cpp](189.%20Rotate%20Array/rotate-array.cpp) |None|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Cpp](190.%20Reverse%20Bits/reverse-bits.cpp) |None|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Cpp](191.%20Number%20of%201%20Bits/number-of-1-bits.cpp) |None|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number)|[Cpp](202.%20Happy%20Number/happy-number.cpp) |None|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|[Cpp](203.%20Remove%20Linked%20List%20Elements/remove-linked-list-elements.cpp) |None|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Cpp](206.%20Reverse%20Linked%20List/reverse-linked-list.cpp) |None|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Python3](217.%20Contains%20Duplicate/contains-duplicate.py) [Cpp](217.%20Contains%20Duplicate/contains-duplicate.cpp) |None|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two)|[Cpp](231.%20Power%20of%20Two/power-of-two.cpp) |None|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Cpp](234.%20Palindrome%20Linked%20List/palindrome-linked-list.cpp) |None|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Cpp](237.%20Delete%20Node%20in%20a%20Linked%20List/delete-node-in-a-linked-list.cpp) |None|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game)|[Cpp](292.%20Nim%20Game/nim-game.cpp) |None|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Cpp](344.%20Reverse%20String/reverse-string.cpp) |None|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Cpp](349.%20Intersection%20of%20Two%20Arrays/intersection-of-two-arrays.cpp) |None|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[Cpp](371.%20Sum%20of%20Two%20Integers/sum-of-two-integers.cpp) |None|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Cpp](404.%20Sum%20of%20Left%20Leaves/sum-of-left-leaves.cpp) |None|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Cpp](412.%20Fizz%20Buzz/fizz-buzz.cpp) |None|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Cpp](414.%20Third%20Maximum%20Number/third-maximum-number.cpp) |None|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Cpp](415.%20Add%20Strings/add-strings.cpp) |None|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Cpp](434.%20Number%20of%20Segments%20in%20a%20String/number-of-segments-in-a-string.cpp) |None|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python3](441.%20Arranging%20Coins/arranging-coins.py) [Cpp](441.%20Arranging%20Coins/arranging-coins.cpp) |None|Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Cpp](709.%20To%20Lower%20Case/to-lower-case.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
