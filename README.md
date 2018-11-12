@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-11-09 09:13:29 
+Update time:  2018-11-12 13:34:46 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **61   /   883** problems
+I have solved **64   /   887** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -39,6 +39,7 @@ I have solved **61   /   883** problems
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Cpp](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/best-time-to-buy-and-sell-stock-ii.cpp) |None|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Cpp](125.%20Valid%20Palindrome/valid-palindrome.cpp) |None|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Cpp](136.%20Single%20Number/single-number.cpp) |None|Easy|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii)|[Cpp](137.%20Single%20Number%20II/single-number-ii.cpp) |None|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Cpp](141.%20Linked%20List%20Cycle/linked-list-cycle.cpp) |None|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Cpp](160.%20Intersection%20of%20Two%20Linked%20Lists/intersection-of-two-linked-lists.cpp) |None|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/two-sum-ii-input-array-is-sorted.cpp) |None|Easy|
@@ -56,6 +57,7 @@ I have solved **61   /   883** problems
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|[Cpp](231.%20Power%20of%20Two/power-of-two.cpp) |None|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Cpp](234.%20Palindrome%20Linked%20List/palindrome-linked-list.cpp) |None|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Cpp](237.%20Delete%20Node%20in%20a%20Linked%20List/delete-node-in-a-linked-list.cpp) |None|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits)|[Cpp](258.%20Add%20Digits/add-digits.cpp) |None|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Cpp](292.%20Nim%20Game/nim-game.cpp) |None|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Cpp](344.%20Reverse%20String/reverse-string.cpp) |None|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Cpp](349.%20Intersection%20of%20Two%20Arrays/intersection-of-two-arrays.cpp) |None|Easy|
@@ -66,5 +68,6 @@ I have solved **61   /   883** problems
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Cpp](415.%20Add%20Strings/add-strings.cpp) |None|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Cpp](434.%20Number%20of%20Segments%20in%20a%20String/number-of-segments-in-a-string.cpp) |None|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python3](441.%20Arranging%20Coins/arranging-coins.py) [Cpp](441.%20Arranging%20Coins/arranging-coins.cpp) |None|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Cpp](520.%20Detect%20Capital/detect-capital.cpp) |None|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Cpp](709.%20To%20Lower%20Case/to-lower-case.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
