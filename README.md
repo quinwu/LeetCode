@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-11-12 13:34:46 
+Update time:  2018-11-13 15:01:34 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **64   /   887** problems
+I have solved **65   /   887** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -68,6 +68,7 @@ I have solved **64   /   887** problems
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Cpp](415.%20Add%20Strings/add-strings.cpp) |None|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Cpp](434.%20Number%20of%20Segments%20in%20a%20String/number-of-segments-in-a-string.cpp) |None|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python3](441.%20Arranging%20Coins/arranging-coins.py) [Cpp](441.%20Arranging%20Coins/arranging-coins.cpp) |None|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|[Cpp](461.%20Hamming%20Distance/hamming-distance.cpp) |None|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Cpp](520.%20Detect%20Capital/detect-capital.cpp) |None|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Cpp](709.%20To%20Lower%20Case/to-lower-case.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
