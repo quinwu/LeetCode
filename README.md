@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2018-11-14 15:48:01 
+Update time:  2018-11-15 17:20:05 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **66   /   887** problems
+I have solved **68   /   887** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -72,4 +72,6 @@ I have solved **66   /   887** problems
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Cpp](520.%20Detect%20Capital/detect-capital.cpp) |None|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Cpp](709.%20To%20Lower%20Case/to-lower-case.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word)|[Cpp](819.%20Most%20Common%20Word/most-common-word.cpp) |None|Easy|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Cpp](852.%20Peak%20Index%20in%20a%20Mountain%20Array/peak-index-in-a-mountain-array.cpp) |None|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|[Cpp](867.%20Transpose%20Matrix/transpose-matrix.cpp) |None|Easy|
