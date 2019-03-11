@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2019-03-01 16:46:34 
+Update time:  2019-03-11 17:10:21 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **71   /   949** problems
+I have solved **74   /   957** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -71,6 +71,9 @@ I have solved **71   /   949** problems
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|[Cpp](461.%20Hamming%20Distance/hamming-distance.cpp) |None|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Cpp](520.%20Detect%20Capital/detect-capital.cpp) |None|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Cpp](633.%20Sum%20of%20Square%20Numbers/sum-of-square-numbers.cpp) |None|Easy|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset)|[Cpp](705.%20Design%20HashSet/design-hashset.cpp) |None|Easy|
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap)|[Cpp](706.%20Design%20HashMap/design-hashmap.cpp) |None|Easy|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Cpp](707.%20Design%20Linked%20List/design-linked-list.cpp) |None|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Cpp](709.%20To%20Lower%20Case/to-lower-case.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[Cpp](804.%20Unique%20Morse%20Code%20Words/unique-morse-code-words.cpp) |None|Easy|
