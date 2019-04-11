@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2019-03-11 17:10:21 
+Update time:  2019-04-11 10:11:40 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **74   /   957** problems
+I have solved **75   /   973** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -58,6 +58,7 @@ I have solved **74   /   957** problems
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Cpp](234.%20Palindrome%20Linked%20List/palindrome-linked-list.cpp) |None|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Cpp](237.%20Delete%20Node%20in%20a%20Linked%20List/delete-node-in-a-linked-list.cpp) |None|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits)|[Cpp](258.%20Add%20Digits/add-digits.cpp) |None|Easy|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Cpp](287.%20Find%20the%20Duplicate%20Number/find-the-duplicate-number.cpp) |None|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Cpp](292.%20Nim%20Game/nim-game.cpp) |None|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Cpp](344.%20Reverse%20String/reverse-string.cpp) |None|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Cpp](349.%20Intersection%20of%20Two%20Arrays/intersection-of-two-arrays.cpp) |None|Easy|
