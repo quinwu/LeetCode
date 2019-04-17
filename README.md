@@ -1,15 +1,16 @@
 #  Leetcode solutions
-Update time:  2019-04-11 10:11:40 
+Update time:  2019-04-17 22:32:10 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **75   /   973** problems
+I have solved **78   /   978** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](001.%20Two%20Sum/two-sum.py) [Cpp](001.%20Two%20Sum/two-sum.cpp) |None|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python3](002.%20Add%20Two%20Numbers/add-two-numbers.py) [Cpp](002.%20Add%20Two%20Numbers/add-two-numbers.cpp) |None|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Cpp](004.%20Median%20of%20Two%20Sorted%20Arrays/median-of-two-sorted-arrays.cpp) |None|Hard|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Cpp](005.%20Longest%20Palindromic%20Substring/longest-palindromic-substring.cpp) |None|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Cpp](007.%20Reverse%20Integer/reverse-integer.cpp) |None|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Cpp](009.%20Palindrome%20Number/palindrome-number.cpp) |None|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python3](013.%20Roman%20to%20Integer/roman-to-integer.py) [Cpp](013.%20Roman%20to%20Integer/roman-to-integer.cpp) |None|Easy|
