@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2019-04-17 22:34:47 
+Update time:  2019-04-19 20:14:29 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **78   /   978** problems
+I have solved **79   /   978** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -12,6 +12,7 @@ I have solved **78   /   978** problems
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Cpp](004.%20Median%20of%20Two%20Sorted%20Arrays/median-of-two-sorted-arrays.cpp) |None|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Cpp](005.%20Longest%20Palindromic%20Substring/longest-palindromic-substring.cpp) |None|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Cpp](007.%20Reverse%20Integer/reverse-integer.cpp) |None|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Cpp](008.%20String%20to%20Integer%20(atoi)/string-to-integer-atoi.cpp) |None|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Cpp](009.%20Palindrome%20Number/palindrome-number.cpp) |None|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python3](013.%20Roman%20to%20Integer/roman-to-integer.py) [Cpp](013.%20Roman%20to%20Integer/roman-to-integer.cpp) |None|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Cpp](014.%20Longest%20Common%20Prefix/longest-common-prefix.cpp) |None|Easy|
