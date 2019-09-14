@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2019-09-05 21:43:38 
+Update time:  2019-09-14 09:35:59 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **93   /   1096** problems
+I have solved **98   /   1104** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -49,17 +49,21 @@ I have solved **93   /   1096** problems
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Cpp](118.%20Pascal's%20Triangle/pascals-triangle.cpp) |None|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Cpp](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/best-time-to-buy-and-sell-stock.cpp) |None|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Cpp](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/best-time-to-buy-and-sell-stock-ii.cpp) |None|Easy|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|[Cpp](123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/best-time-to-buy-and-sell-stock-iii.cpp) |None|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Cpp](125.%20Valid%20Palindrome/valid-palindrome.cpp) |None|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Cpp](136.%20Single%20Number/single-number.cpp) |None|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii)|[Cpp](137.%20Single%20Number%20II/single-number-ii.cpp) |None|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Cpp](141.%20Linked%20List%20Cycle/linked-list-cycle.cpp) |None|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[Cpp](142.%20Linked%20List%20Cycle%20II/linked-list-cycle-ii.cpp) |None|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Cpp](146.%20LRU%20Cache/lru-cache.cpp) |None|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack)|[Cpp](155.%20Min%20Stack/min-stack.cpp) |None|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Cpp](160.%20Intersection%20of%20Two%20Linked%20Lists/intersection-of-two-linked-lists.cpp) |None|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/two-sum-ii-input-array-is-sorted.cpp) |None|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Cpp](168.%20Excel%20Sheet%20Column%20Title/excel-sheet-column-title.cpp) |None|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element)|[Cpp](169.%20Majority%20Element/majority-element.cpp) |None|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Cpp](171.%20Excel%20Sheet%20Column%20Number/excel-sheet-column-number.cpp) |None|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Cpp](172.%20Factorial%20Trailing%20Zeroes/factorial-trailing-zeroes.cpp) |None|Easy|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[Cpp](188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/best-time-to-buy-and-sell-stock-iv.cpp) |None|Hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Cpp](189.%20Rotate%20Array/rotate-array.cpp) |None|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Cpp](190.%20Reverse%20Bits/reverse-bits.cpp) |None|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Cpp](191.%20Number%20of%201%20Bits/number-of-1-bits.cpp) |None|Easy|
@@ -85,6 +89,7 @@ I have solved **93   /   1096** problems
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Cpp](415.%20Add%20Strings/add-strings.cpp) |None|Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Cpp](434.%20Number%20of%20Segments%20in%20a%20String/number-of-segments-in-a-string.cpp) |None|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python3](441.%20Arranging%20Coins/arranging-coins.py) [Cpp](441.%20Arranging%20Coins/arranging-coins.cpp) |None|Easy|
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache)|[Cpp](460.%20LFU%20Cache/lfu-cache.cpp) |None|Hard|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|[Cpp](461.%20Hamming%20Distance/hamming-distance.cpp) |None|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Cpp](520.%20Detect%20Capital/detect-capital.cpp) |None|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Cpp](633.%20Sum%20of%20Square%20Numbers/sum-of-square-numbers.cpp) |None|Easy|
