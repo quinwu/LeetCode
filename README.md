@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2019-09-14 09:35:59 
+Update time:  2019-09-17 09:31:46 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **98   /   1104** problems
+I have solved **105   /   1108** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -24,8 +24,11 @@ I have solved **98   /   1104** problems
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](026.%20Remove%20Duplicates%20from%20Sorted%20Array/remove-duplicates-from-sorted-array.py) [Cpp](026.%20Remove%20Duplicates%20from%20Sorted%20Array/remove-duplicates-from-sorted-array.cpp) |None|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](027.%20Remove%20Element/remove-element.py) [Cpp](027.%20Remove%20Element/remove-element.cpp) |None|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python3](028.%20Implement%20strStr()/implement-strstr.py) [Cpp](028.%20Implement%20strStr()/implement-strstr.cpp) |None|Easy|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python3](035.%20Search%20Insert%20Position/search-insert-position.py) [Cpp](035.%20Search%20Insert%20Position/search-insert-position.cpp) |None|Easy|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Cpp](033.%20Search%20in%20Rotated%20Sorted%20Array/search-in-rotated-sorted-array.cpp) |None|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Cpp](034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/find-first-and-last-position-of-element-in-sorted-array.cpp) |None|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Cpp](035.%20Search%20Insert%20Position/search-insert-position.cpp) [Python3](035.%20Search%20Insert%20Position/search-insert-position.py) |None|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Cpp](042.%20Trapping%20Rain%20Water/trapping-rain-water.cpp) |None|Hard|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Cpp](050.%20Pow(x,%20n)/powx-n.cpp) |None|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Cpp](053.%20Maximum%20Subarray/maximum-subarray.cpp) |None|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Cpp](054.%20Spiral%20Matrix/spiral-matrix.cpp) |None|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Cpp](056.%20Merge%20Intervals/merge-intervals.cpp) |None|Medium|
@@ -36,6 +39,7 @@ I have solved **98   /   1104** problems
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Cpp](069.%20Sqrt(x)/sqrtx.cpp) |None|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Cpp](070.%20Climbing%20Stairs/climbing-stairs.cpp) |None|Easy|
 |78|[Subsets](https://leetcode.com/problems/subsets)|[Cpp](078.%20Subsets/subsets.cpp) |None|Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Cpp](081.%20Search%20in%20Rotated%20Sorted%20Array%20II/search-in-rotated-sorted-array-ii.cpp) |None|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python3](083.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-from-sorted-list.py) [Cpp](083.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-from-sorted-list.cpp) |None|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Cpp](088.%20Merge%20Sorted%20Array/merge-sorted-array.cpp) |None|Easy|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[Cpp](096.%20Unique%20Binary%20Search%20Trees/unique-binary-search-trees.cpp) |None|Medium|
@@ -56,8 +60,11 @@ I have solved **98   /   1104** problems
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Cpp](141.%20Linked%20List%20Cycle/linked-list-cycle.cpp) |None|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[Cpp](142.%20Linked%20List%20Cycle%20II/linked-list-cycle-ii.cpp) |None|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Cpp](146.%20LRU%20Cache/lru-cache.cpp) |None|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Cpp](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/find-minimum-in-rotated-sorted-array.cpp) |None|Medium|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Cpp](154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/find-minimum-in-rotated-sorted-array-ii.cpp) |None|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[Cpp](155.%20Min%20Stack/min-stack.cpp) |None|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Cpp](160.%20Intersection%20of%20Two%20Linked%20Lists/intersection-of-two-linked-lists.cpp) |None|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Cpp](162.%20Find%20Peak%20Element/find-peak-element.cpp) |None|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Cpp](167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/two-sum-ii-input-array-is-sorted.cpp) |None|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Cpp](168.%20Excel%20Sheet%20Column%20Title/excel-sheet-column-title.cpp) |None|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element)|[Cpp](169.%20Majority%20Element/majority-element.cpp) |None|Easy|
