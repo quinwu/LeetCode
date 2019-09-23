@@ -1,13 +1,13 @@
 #  Leetcode solutions
-Update time:  2019-09-17 09:31:46 
+Update time:  2019-09-23 14:20:23 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **105   /   1108** problems
+I have solved **113   /   1116** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
-|1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](001.%20Two%20Sum/two-sum.py) [Cpp](001.%20Two%20Sum/two-sum.cpp) |None|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum)|[Cpp](001.%20Two%20Sum/two-sum.cpp) [Python](001.%20Two%20Sum/two-sum.py) |None|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python3](002.%20Add%20Two%20Numbers/add-two-numbers.py) [Cpp](002.%20Add%20Two%20Numbers/add-two-numbers.cpp) |None|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Cpp](004.%20Median%20of%20Two%20Sorted%20Arrays/median-of-two-sorted-arrays.cpp) |None|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Cpp](005.%20Longest%20Palindromic%20Substring/longest-palindromic-substring.cpp) |None|Medium|
@@ -17,6 +17,7 @@ I have solved **105   /   1108** problems
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Cpp](011.%20Container%20With%20Most%20Water/container-with-most-water.cpp) |None|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python3](013.%20Roman%20to%20Integer/roman-to-integer.py) [Cpp](013.%20Roman%20to%20Integer/roman-to-integer.cpp) |None|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Cpp](014.%20Longest%20Common%20Prefix/longest-common-prefix.cpp) |None|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum)|[Cpp](015.%203Sum/3sum.cpp) |None|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Cpp](019.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove-nth-node-from-end-of-list.cpp) |None|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Cpp](020.%20Valid%20Parentheses/valid-parentheses.cpp) |None|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python3](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.py) [Cpp](021.%20Merge%20Two%20Sorted%20Lists/merge-two-sorted-lists.cpp) |None|Easy|
@@ -77,14 +78,17 @@ I have solved **105   /   1108** problems
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Cpp](202.%20Happy%20Number/happy-number.cpp) |None|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|[Cpp](203.%20Remove%20Linked%20List%20Elements/remove-linked-list-elements.cpp) |None|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Cpp](206.%20Reverse%20Linked%20List/reverse-linked-list.cpp) |None|Easy|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Cpp](215.%20Kth%20Largest%20Element%20in%20an%20Array/kth-largest-element-in-an-array.cpp) |None|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Python3](217.%20Contains%20Duplicate/contains-duplicate.py) [Cpp](217.%20Contains%20Duplicate/contains-duplicate.cpp) |None|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|[Cpp](231.%20Power%20of%20Two/power-of-two.cpp) |None|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Cpp](234.%20Palindrome%20Linked%20List/palindrome-linked-list.cpp) |None|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Cpp](237.%20Delete%20Node%20in%20a%20Linked%20List/delete-node-in-a-linked-list.cpp) |None|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Cpp](242.%20Valid%20Anagram/valid-anagram.cpp) |None|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits)|[Cpp](258.%20Add%20Digits/add-digits.cpp) |None|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|[Cpp](278.%20First%20Bad%20Version/first-bad-version.cpp) |None|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Cpp](287.%20Find%20the%20Duplicate%20Number/find-the-duplicate-number.cpp) |None|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Cpp](292.%20Nim%20Game/nim-game.cpp) |None|Easy|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|[Cpp](295.%20Find%20Median%20from%20Data%20Stream/find-median-from-data-stream.cpp) |None|Hard|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Cpp](344.%20Reverse%20String/reverse-string.cpp) |None|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Cpp](349.%20Intersection%20of%20Two%20Arrays/intersection-of-two-arrays.cpp) |None|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Cpp](350.%20Intersection%20of%20Two%20Arrays%20II/intersection-of-two-arrays-ii.cpp) |None|Easy|
@@ -94,16 +98,20 @@ I have solved **105   /   1108** problems
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Cpp](412.%20Fizz%20Buzz/fizz-buzz.cpp) |None|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Cpp](414.%20Third%20Maximum%20Number/third-maximum-number.cpp) |None|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Cpp](415.%20Add%20Strings/add-strings.cpp) |None|Easy|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)|[Cpp](416.%20Partition%20Equal%20Subset%20Sum/partition-equal-subset-sum.cpp) |None|Medium|
+|421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)|[Cpp](421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/maximum-xor-of-two-numbers-in-an-array.cpp) |None|Medium|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Cpp](434.%20Number%20of%20Segments%20in%20a%20String/number-of-segments-in-a-string.cpp) |None|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python3](441.%20Arranging%20Coins/arranging-coins.py) [Cpp](441.%20Arranging%20Coins/arranging-coins.cpp) |None|Easy|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache)|[Cpp](460.%20LFU%20Cache/lfu-cache.cpp) |None|Hard|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|[Cpp](461.%20Hamming%20Distance/hamming-distance.cpp) |None|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Cpp](520.%20Detect%20Capital/detect-capital.cpp) |None|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Cpp](633.%20Sum%20of%20Square%20Numbers/sum-of-square-numbers.cpp) |None|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search)|[Cpp](704.%20Binary%20Search/binary-search.cpp) |None|Easy|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset)|[Cpp](705.%20Design%20HashSet/design-hashset.cpp) |None|Easy|
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap)|[Cpp](706.%20Design%20HashMap/design-hashmap.cpp) |None|Easy|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Cpp](707.%20Design%20Linked%20List/design-linked-list.cpp) |None|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Cpp](709.%20To%20Lower%20Case/to-lower-case.cpp) |None|Easy|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[Cpp](744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/find-smallest-letter-greater-than-target.cpp) |None|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Cpp](771.%20Jewels%20and%20Stones/jewels-and-stones.cpp) |None|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[Cpp](804.%20Unique%20Morse%20Code%20Words/unique-morse-code-words.cpp) |None|Easy|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word)|[Cpp](819.%20Most%20Common%20Word/most-common-word.cpp) |None|Easy|
