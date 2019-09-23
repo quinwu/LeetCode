@@ -1,9 +1,9 @@
 #  Leetcode solutions
-Update time:  2019-09-23 14:20:23 
+Update time:  2019-09-23 15:59:27 
 
 Auto Updated by [LeetCode2Github](https://github.com/quinwu/LeetCode2Github)
 
-I have solved **113   /   1116** problems
+I have solved **114   /   1116** problems
 
 |NO.|Title|Solutions|Note|Difficulty|
 |:---:|:---:|:---:|:---:|:---:|
@@ -89,6 +89,7 @@ I have solved **113   /   1116** problems
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Cpp](287.%20Find%20the%20Duplicate%20Number/find-the-duplicate-number.cpp) |None|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Cpp](292.%20Nim%20Game/nim-game.cpp) |None|Easy|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|[Cpp](295.%20Find%20Median%20from%20Data%20Stream/find-median-from-data-stream.cpp) |None|Hard|
+|322|[Coin Change](https://leetcode.com/problems/coin-change)|[Cpp](322.%20Coin%20Change/coin-change.cpp) |None|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Cpp](344.%20Reverse%20String/reverse-string.cpp) |None|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Cpp](349.%20Intersection%20of%20Two%20Arrays/intersection-of-two-arrays.cpp) |None|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Cpp](350.%20Intersection%20of%20Two%20Arrays%20II/intersection-of-two-arrays-ii.cpp) |None|Easy|
